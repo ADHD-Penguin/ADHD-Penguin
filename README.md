@@ -42,6 +42,17 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ---
 
+## 📝 Recent Articles
+
+<p align="center">
+  <sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub><br><br>
+  <a href="blog_article.md">
+    <img src="https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge" alt="Read Blog Article (Markdown)">
+  </a>
+</p>
+
+---
+
 ## 🎛️ Research Focus (Quick View)
 ![B-Roll Image 5](images/b_roll_5.png)
 
@@ -74,7 +85,7 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ## 🚀 Pinned Projects Showcase
 <p align="center">
-  <a href="https://github.com/ADHD-Penguin/VoiceScribe">
+  <!-- <a href="https://github.com/ADHD-Penguin/VoiceScribe">
     <img src="images/project_voicescribe.png" width="220" alt="VoiceScribe">
   </a>
   <a href="https://github.com/ADHD-Penguin/FaithGraph">
@@ -85,7 +96,8 @@ I blend theology, design, and systems programming to craft tools that make life 
   </a>
   <a href="https://github.com/ADHD-Penguin/TheSermonator">
     <img src="images/project_sermonator.png" width="220" alt="The Sermonator">
-  </a>
+  </a> -->
+  <em>Coming Soon!</em>
 </p>
 
 <sub>🎯 *Featured prototypes combining theology, creativity, and adaptive AI systems.*</sub>
@@ -181,17 +193,6 @@ Coding since 15 turned my *“inflexible penguin waddle”* into adaptive proble
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
 
 > 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
-
----
-
-## 📝 Recent Articles
-
-<p align="center">
-  <sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub><br>
-  <a href="blog_article.md">
-    <img src="https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge" alt="Read Blog Article (Markdown)">
-  </a>
-</p>
 </div>
 
 <!---
