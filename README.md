@@ -186,12 +186,12 @@ Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sp
 
 ## 📝 Recent Articles
 
-<div align="center">
-  [![Read Blog Article (Markdown)](https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge)](blog_article.md)
-</div>
-
-<sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub>
-
+<p align="center">
+  <sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub><br>
+  <a href="blog_article.md">
+    <img src="https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge" alt="Read Blog Article (Markdown)">
+  </a>
+</p>
 </div>
 
 <!---
