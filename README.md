@@ -14,13 +14,31 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ### 🌐 Connect with Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ADHD_Penguin?style=social)](https://x.com/Jesse_Sng)
-[![GitHub followers](https://img.shields.io/github/followers/ADHD-Penguin?style=social)](https://github.com/ADHD-Penguin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-sng-05ab7944/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jesse.sng)
-[![Profile Views](https://komarev.com/ghpvc/?username=ADHD-Penguin&style=flat-square)](https://github.com/ADHD-Penguin)
+<p align="center">
+  <a href="https://x.com/Jesse_Sng">
+    <img src="https://img.shields.io/badge/Follow-@ADHD__Penguin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
+  </a>
+  <a href="https://github.com/ADHD-Penguin">
+    <img src="https://img.shields.io/badge/GitHub-@ADHD--Penguin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/jesse-sng-05ab7944/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Sng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/jesse.sng">
+    <img src="https://img.shields.io/badge/Facebook-jesse.sng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
-✉️ [Email Me](mailto:jesse.sng@gmail.com) • 💬 [Telegram](https://t.me/) • ☁️ [iCloud Shortcuts](https://www.icloud.com/shortcuts/)
+<p align="center">
+  <a href="mailto:jesse.sng@gmail.com">✉️ Email</a> •
+  <a href="https://t.me/">💬 Telegram</a> •
+  <a href="https://www.icloud.com/shortcuts/">☁️ iCloud Shortcuts</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADHD-Penguin&label=profile%20views&color=0E75B6&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/ADHD-Penguin?label=followers&style=flat-square" alt="GitHub followers">
+</p>
 
 ---
 
@@ -163,6 +181,21 @@ Coding since 15 turned my *“inflexible penguin waddle”* into adaptive proble
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
 
 > 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
+
+---
+
+## 📝 Recent Articles
+
+<p align="center">
+  <a href="blog_article.html">
+    <img src="https://img.shields.io/badge/📖_Blog_HTML-My_Hyperfocus_Sidekick-4A90E2?style=for-the-badge" alt="Read Blog Article (HTML)">
+  </a>
+  <a href="blog_article.md">
+    <img src="https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge" alt="Read Blog Article (Markdown)">
+  </a>
+</p>
+
+<sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub>
 
 </div>
 
