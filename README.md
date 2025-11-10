@@ -46,7 +46,9 @@ I blend theology, design, and systems programming to craft tools that make life 
     <img src="https://img.shields.io/badge/🧬_Revival-Microapps_&_Biz_Twists-E74C3C?style=for-the-badge" alt="Project Revival">
   </a>
 </p>
+
 ![B-Roll Image 5](images/b_roll_5.png)
+
 ---
 
 ## 🔬 Research & Pursuit Topics
