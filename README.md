@@ -4,7 +4,7 @@
 
 # 🐧 Hi, I’m @ADHD-Penguin  
 ### Neurodivergent Creator • AI Builder • Faith-Tech Researcher  
-
+![B-Roll Image 1](images/b_roll_1.png)
 🧠 I’m a **neurodivergent creator & pastor-engineer** passionate about leveraging **AI to empower ADHD, AuDHD, and ASD communities** — especially in Singapore.  
 I blend theology, design, and systems programming to craft tools that make life a bit less chaotic and a lot more connected.
 
@@ -46,7 +46,7 @@ I blend theology, design, and systems programming to craft tools that make life 
     <img src="https://img.shields.io/badge/🧬_Revival-Microapps_&_Biz_Twists-E74C3C?style=for-the-badge" alt="Project Revival">
   </a>
 </p>
-
+![B-Roll Image 5](images/b_roll_5.png)
 ---
 
 ## 🔬 Research & Pursuit Topics
@@ -95,6 +95,7 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 ---
 
 ## ⚙️ What I’m Working On
+![B-Roll Image 7](images/b_roll_7.png)
 - 🤖 **AI tools for neurodiversity** — personalized chatbots and emotional copilot systems.  
 - ⚙️ **LLM automation** — `.md` scripting for no-code workflows using Gemini CLI & Claude Code.  
 - 🎨 **Faith-based storytelling** — generative visuals and conversational theology engines.  
