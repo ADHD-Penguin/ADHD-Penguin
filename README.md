@@ -195,6 +195,29 @@ Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sp
 > 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
 </div>
 
+---
+
+<details>
+<summary><b>📜 My Journey — From Code to Calling</b></summary>
+
+From teen hacker in 1980s Singapore to tech founder and now faith-driven AI builder,  
+my life has been a looping algorithm of reinvention.
+
+It began at age 15, coding in BASIC on a clunky screen, discovering that problems weren’t walls but puzzles to reframe.  
+In the ’90s, I bootstrapped R&D teams, engineered viral growth that took companies from hundreds to millions of users,  
+and learned that leadership was just another form of debugging — of people.
+
+Then came the deeper rewrite: I traded IPOs for ministry, code for community.  
+As a pastor, I found the same logic of systems applies to the soul — empathy scales, too.
+
+Now, with AI reshaping the world, I’ve merged both worlds again:  
+faith, neurodiversity, and generative tech.  
+I build tools that empower the differently wired, the overlooked, the creative — those whose minds don’t fit the mold.
+
+> 🐧 Still waddling forward, one adaptive commit at a time.
+
+</details>
+
 <!---
 ADHD-Penguin/ADHD-Penguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
