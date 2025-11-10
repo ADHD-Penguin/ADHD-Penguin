@@ -52,7 +52,7 @@ I blend theology, design, and systems programming to craft tools that make life 
 ---
 
 ## 🔬 Research & Pursuit Topics
-
+![B-Roll Image 6](images/b_roll_6.png)
 <details open>
 <summary><b>🧩 Neurodiversity Support Systems</b></summary>
 AI chatbots and apps for **ADHD/AuDHD/ASD** life management, emotional regulation, and study/work adaptation.  
