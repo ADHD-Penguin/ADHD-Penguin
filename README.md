@@ -130,6 +130,7 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 ---
 
 ## ⚡ Fun Fact
+![B-Roll Image 8](images/b_roll_8.png)
 Coding since 15 turned my *“inflexible penguin waddle”* into adaptive problem-solving.  
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
 
