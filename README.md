@@ -4,7 +4,9 @@
 
 # 🐧 Hi, I’m @ADHD-Penguin  
 ### Neurodivergent Creator • AI Builder • Faith-Tech Researcher  
+
 ![B-Roll Image 1](images/b_roll_1.png)
+
 🧠 I’m a **neurodivergent creator & pastor-engineer** passionate about leveraging **AI to empower ADHD, AuDHD, and ASD communities** — especially in Singapore.  
 I blend theology, design, and systems programming to craft tools that make life a bit less chaotic and a lot more connected.
 
@@ -12,16 +14,19 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ### 🌐 Connect with Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ADHD_Penguin?style=social)](https://twitter.com/ADHD_Penguin)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ADHD_Penguin?style=social)](https://x.com/Jesse_Sng)
 [![GitHub followers](https://img.shields.io/github/followers/ADHD-Penguin?style=social)](https://github.com/ADHD-Penguin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-sng-05ab7944/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jesse.sng)
 [![Profile Views](https://komarev.com/ghpvc/?username=ADHD-Penguin&style=flat-square)](https://github.com/ADHD-Penguin)
 
-✉️ [Email Me](mailto:adhd.penguin@example.com) • 💬 [Telegram](https://t.me/) • ☁️ [iCloud Shortcuts](https://www.icloud.com/shortcuts/)
+✉️ [Email Me](mailto:jesse.sng@gmail.com) • 💬 [Telegram](https://t.me/) • ☁️ [iCloud Shortcuts](https://www.icloud.com/shortcuts/)
 
 ---
 
 ## 🎛️ Research Focus (Quick View)
 ![B-Roll Image 5](images/b_roll_5.png)
+
 <!-- Badge Grid -->
 <p align="center">
   <a href="#-neurodiversity-support-systems">
@@ -49,8 +54,29 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ---
 
+## 🚀 Pinned Projects Showcase
+<p align="center">
+  <a href="https://github.com/ADHD-Penguin/VoiceScribe">
+    <img src="images/project_voicescribe.png" width="220" alt="VoiceScribe">
+  </a>
+  <a href="https://github.com/ADHD-Penguin/FaithGraph">
+    <img src="images/project_faithgraph.png" width="220" alt="FaithGraph">
+  </a>
+  <a href="https://github.com/ADHD-Penguin/NeuroToolkit">
+    <img src="images/project_neurotoolkit.png" width="220" alt="NeuroToolkit">
+  </a>
+  <a href="https://github.com/ADHD-Penguin/TheSermonator">
+    <img src="images/project_sermonator.png" width="220" alt="The Sermonator">
+  </a>
+</p>
+
+<sub>🎯 *Featured prototypes combining theology, creativity, and adaptive AI systems.*</sub>
+
+---
+
 ## 🔬 Research & Pursuit Topics
 ![B-Roll Image 6](images/b_roll_6.png)
+
 <details open>
 <summary><b>🧩 Neurodiversity Support Systems</b></summary>
 AI chatbots and apps for **ADHD/AuDHD/ASD** life management, emotional regulation, and study/work adaptation.  
@@ -132,9 +158,14 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 
 ## ⚡ Fun Fact
 ![B-Roll Image 8](images/b_roll_8.png)
+
 Coding since 15 turned my *“inflexible penguin waddle”* into adaptive problem-solving.  
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
 
 > 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
 
 </div>
+
+<!---
+ADHD-Penguin/ADHD-Penguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
